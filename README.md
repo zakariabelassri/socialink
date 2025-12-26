@@ -32,10 +32,6 @@ socialink/
 
 This project is currently in development.
 
-## 📄 License
-
-[Choose your license - MIT, Apache 2.0, etc.]
-
 ## 👥 Contributors
 
-[Your team members]
+[@zakariabelassri](https://github.com/zakariabelassri)
